@@ -15,13 +15,13 @@ Background Color- #205564
 
 2) Code the below layout.  The border-radius of all the boxes and buttons are 2px.
 
-Background Color- #1A223F
-The pink color hex code - #E42B74
+- Background Color- #1A223F
+- The pink color hex code - #E42B74
 
-Font Sizes: 
+  Font Sizes: 
 
-H1 for header(40px)
-Body Text (14px)
+- H1 for header(40px)
+- Body Text (14px)
 
 
 <img width="797" alt="screen shot 2017-08-02 at 12 27 57 am" src="https://user-images.githubusercontent.com/25129851/28835875-7786de0e-7719-11e7-8099-75eb076bba5c.png">
