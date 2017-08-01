@@ -26,3 +26,14 @@ Background Color- #205564
 
 <img width="797" alt="screen shot 2017-08-02 at 12 27 57 am" src="https://user-images.githubusercontent.com/25129851/28835875-7786de0e-7719-11e7-8099-75eb076bba5c.png">
 
+### NESTING
+
+1) Code the below navbar. Make use of nesting techniques.
+
+Navbar Colors:
+- Background - #E5E5E5
+- Text - #000000
+
+<img width="789" alt="screen shot 2017-08-02 at 6 32 38 am" src="https://user-images.githubusercontent.com/25129851/28850016-a28f6318-774c-11e7-8ebb-e921de09c64f.png">
+
+
