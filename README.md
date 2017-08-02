@@ -37,3 +37,18 @@ Navbar Colors:
 <img width="789" alt="screen shot 2017-08-02 at 6 32 38 am" src="https://user-images.githubusercontent.com/25129851/28850016-a28f6318-774c-11e7-8ebb-e921de09c64f.png">
 
 
+###IMPORTS AND PARTIALS
+
+1) Update your Sass structure to look something like the one below;
+
+  sass
+    base
+      _base.scss
+      _links.scss
+      _header.scss
+      _footer.scss
+      _info.scss
+    main.scss
+    
+   - Move ALL styles from main.scss to more modular / organized locations.
+   - Update main.scss to @import your new partials.
