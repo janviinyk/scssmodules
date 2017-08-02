@@ -56,3 +56,26 @@ Navbar Colors:
     
    - Move ALL styles from main.scss to more modular / organized locations.
    - Update main.scss to @import your new partials.
+   
+###EXTEND
+
+- Create a placeholders partial in your base directory and @import it in your main .scss file.
+- Create a placeholder for %clearfix and @extend it on the appropriate selectors.
+- Also remove the .clearfix class from the markup(if using bootstrap).
+- Create a .navlist class like the one below.
+
+```
+  .navlist--inline {
+  list-style-type: none;
+
+  li {
+    display: inline-block;
+  }
+
+  a {
+    display: block;
+  }
+}
+```
+- @extend that class on elements that match the pattern.
+
