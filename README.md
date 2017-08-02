@@ -42,7 +42,6 @@ Navbar Colors:
 1) Update your Sass structure to look something like the one below;
 
   sass
-    base
     
       _base.scss
       
