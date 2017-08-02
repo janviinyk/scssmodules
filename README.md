@@ -43,10 +43,15 @@ Navbar Colors:
 
   sass
     base
+    
       _base.scss
+      
       _links.scss
+      
       _header.scss
+      
       _footer.scss
+      
       _info.scss
     main.scss
     
